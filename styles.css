@@ -3,11 +3,13 @@
 body {
     display: flex;
     flex-direction: column;
+    flex: 1 1 auto;
     background-color: linen;
     font-family: Georgia, serif;
 }
 
 .header, .footer  {
+    display: flex;
     height: 64px;
     background-color: purple;
 }
