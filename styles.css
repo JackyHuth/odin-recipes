@@ -8,15 +8,13 @@ body {
     flex-direction: column;
     flex: 1 1 auto;
     background-color: linen;
+    height: 100vh;
 }
 
 .header, .footer  {
     display: flex;
     height: 64px;
     background-color: bisque;
-}
-
-.footer {
     align-items: center;
 }
 
