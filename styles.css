@@ -3,7 +3,6 @@
     font-family: Georgia, serif;
 }
 
-
 body {
     display: flex;
     flex-direction: column;
@@ -14,7 +13,7 @@ body {
 .header, .footer  {
     display: flex;
     height: 64px;
-    background-color:antiquewhite;
+    background-color: bisque;
 }
 
 .body {
@@ -27,7 +26,7 @@ body {
     width: 250px;
     box-sizing: border-box;
     padding: 16px;
-    background-color: burlywood;
+    background-color: antiquewhite;
 }
 
 .ul {
