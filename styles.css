@@ -19,10 +19,10 @@ body {
 
 .sidebar {
     display: flex;
-    flex-direction: column;
     flex-shrink: 0;
-    padding: 16px;
     width: 250px;
+    box-sizing: border-box;
+    padding: 16px;
     background-color: burlywood;
 }
 
