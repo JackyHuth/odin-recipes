@@ -35,10 +35,10 @@ body {
 }
 
 .ul {
-    list-style-type: none;
+    list-style: none;
 }
 
-.ul.a {
+.a {
     text-decoration: none;
 }
 
